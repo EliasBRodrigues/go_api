@@ -1,10 +1,15 @@
 # go_api
 
+## 🐳 Dockerfile
+- Execute os seguintes comandos antes de testar a aplicação:
+  - #### docker build -t go-image-api . -> construir imagem Docker
+  - #### docker compose up -d -> executar banco de dados e aplicação
+
 ## 🖥️ Tecnologias Utilizadas
 
 -  Linguagem: Go (Golang)
 - Banco de Dados: PostgreSQL
--  Framework: Gin (ou padrão net/http para simplicidade)
+-  Framework: Gin
 
 
 ## 📂 Documentação da API
