@@ -4,7 +4,7 @@
 
 -  Linguagem: Go (Golang)
 - Banco de Dados: PostgreSQL
--  Framework: Gin (ou padrão net/http para simplicidade)
+-  Framework: Gin
 
 
 ## 📂 Documentação da API
